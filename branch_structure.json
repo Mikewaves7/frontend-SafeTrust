@@ -1,0 +1,24 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "enhancement",
+    "fix/486-auth-session-cookie",
+    "origin",
+    "revert-314-feat/310-firebase-login"
+  ],
+  "parent": {
+    "develop": null,
+    "enhancement": "develop",
+    "fix/486-auth-session-cookie": "develop",
+    "origin": "develop",
+    "revert-314-feat/310-firebase-login": "develop"
+  },
+  "order": [
+    "develop",
+    "enhancement",
+    "fix/486-auth-session-cookie",
+    "origin",
+    "revert-314-feat/310-firebase-login"
+  ]
+}
